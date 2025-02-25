@@ -2,4 +2,5 @@ name: PetGuard
 version: '1.0.0'
 main: me.usainsrht.petguard.PetGuard
 api-version: '1.21'
-authors: [ UsainSrht ]
+author: UsainSrht
+description: 'Prevents players from hitting their pets.'
